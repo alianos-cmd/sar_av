@@ -1,3 +1,4 @@
+-- SQL Anleitung für die Datenbank --
 CREATE TABLE geraet (
     device_id      BIGSERIAL PRIMARY KEY,
     name           VARCHAR(100) NOT NULL,
