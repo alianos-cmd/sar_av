@@ -1,7 +1,5 @@
 Für unserer Projekt nutzen wir Docker
-Dafür benötigt ihr vorab: 
-	Docker 
-	Docker Compose
+Dafür benötigt ihr vorab: Docker, Docker Compose
 
 	> curl -sSL https://get.docker.com
 	> apt install docker-compose
