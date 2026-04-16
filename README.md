@@ -23,7 +23,7 @@ git clone https://github.com/alianos-cmd/sar_av
 cd sar_av
 pip install -r requirements.txt
 ```
-git add README.md .gitignore
+
 ### Usage
 
 ```bash
@@ -33,7 +33,7 @@ python main.py
 ## Project Structure
 
 ```
-your-repo/
+sar_av/
 ├── main.py
 ├── requirements.txt
 └── README.md
