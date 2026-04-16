@@ -11,10 +11,10 @@
 
 ```bash
 git clone https://github.com/alianos-cmd/sar_av
-cd your-repo
+cd sar_av
 pip install -r requirements.txt
 ```
-
+git add README.md .gitignore
 ### Usage
 
 ```bash
